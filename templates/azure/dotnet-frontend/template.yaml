@@ -8,8 +8,7 @@ metadata:
     - recommended
     - dotnet
 spec:
-  owner: janus-authors
-  system: janus-idp
+  owner: group:default/sg_redhat_developers_admin
   type: service
 
   parameters:
